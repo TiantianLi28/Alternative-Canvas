@@ -1,0 +1,52 @@
+1,2021-09-05 16:35:00,I think we are trying to list out the last name of the athletes that are in countries that neither have competed yet or none of their athletes have ranked in the top 3 so far.,ize3lkeNiR
+4,2021-09-05 13:35:00,The relational schema is the structure and design of the relation such as the attribute list. The relation state is like the table content at any given moment.,ize3lkeNiR
+5,2021-10-15 13:32:00,The numbers seem to be incorrect and it seems the points were posted?,ize3lkeNiR
+6,2021-10-09 10:24:00,You can assume that each city has a distance name so you would consider Atlanta GA to be the same name as Atlanta FL,A1Kcf8Z1u3
+7,2021-10-16 06:23:00,You can use temporal relations (see WITH and FROM) to do this rather than create temporary tables,PiQvBSPut9
+10,2021-10-01 17:41:00,I believe just choosing a random card from the deck to deal out cards is enough.,qBhsb9AT1D
+11,2021-10-01 20:23:00,I think there's no specific rule in Blackjack for when an ace is counted as a 1 or an 11. I assumed we have to keep track of the total score in both cases: when the ace is a 1 and when the ace is an 11.,wUSNkrt2i7
+12,2021-10-14 17:11:00,Take advantage of what the method move() returns. It is true in certain situations and false in others. You can then push depending on the value.,YXCMIivcy6
+13,2021-10-16 10:04:00,This actually happened to me as well on the previous assignment. I was told that I wouldn't be penalized so I think you'll be fine,qBhsb9AT1D
+14,2021-10-31 20:01:00,Exceptions stop execution,wUSNkrt2i7
+15,2021-02-04 07:05:00,I think the bowtie means natural join,v9ksRoAENe
+16,2021-04-09 20:26:00,Everything up until today's lecture can be included as material on the exam,JulFHBBgP9
+17,2021-03-21 10:59:00,Use homebrew to install Postgres on Mac and Linux. Download the windows installer to install on Windows.,A1Kcf8Z1u3
+18,2021-03-29 04:47:00,I think it does matter. I must be after the WHERE clause and before the HAVING; LIMIT; and ORDER BY,OhfDW5FQet
+19,2021-04-25 13:39:00,Please submit a regrade request via email to me with the email header [CS377],JulFHBBgP9
+20,2021-04-10 17:01:00,Have you tried reloading the page or clearing your cache?,Rjuqf7P3nX
+21,2021-04-17 16:11:00,Try cloud.google.com,QVsfnLS8nP
+22,2021-05-01 05:48:00,Everything covered in the class can appear on the final exam,JulFHBBgP9
+23,2021-04-26 07:35:00,2NF looks at partial functional dependency while 3NF ensures no non-prime attribute functionally determines another non-prime attribute,JulFHBBgP9
+24,2020-09-15 08:01:00,I like Sublime Text Editor and using the command line to compile,RxNqRHaaoI
+25,2020-10-13 22:55:00,As long as its within reasonable time frames you will not be deducted points.,ECk9NPOnC1
+26,2020-10-28 05:19:00,You may want to verify that you are appropriately updating your variables. Try using System.out.println.,ECk9NPOnC1
+27,2020-11-12 14:10:00,You may want to explore different shuffle variants that are found on Wikipedia.,JulFHBBgP9
+28,2020-11-28 09:18:00,You may want to rewatch the lecture 23 and reread the slides to see how this is solved for the general case.,JulFHBBgP9
+29,2020-02-28 07:41:00,Please try using the GCP instance to avoid having to implement your local copy.,JulFHBBgP9
+30,2020-04-01 02:35:00,No it doesn't matter so long as it can functionally browse the database.,fC8CoZyN8g
+31,2020-04-02 19:47:00,I believe we should be using JDK 8.0,WJrWAidLZ5
+32,2020-04-10 14:49:00,Yes they have been uploaded onto Canvas.,JulFHBBgP9
+33,2020-05-02 05:37:00,No there won't be any solutions for the sample final problems.,JulFHBBgP9
+1,2021-09-05 20:45:00,Yes Elaine is correct in this response.,WJrWAidLZ5
+4,2021-09-05 15:45:00,You can draw an analogy between the relational schema and classes in Java. Then you can think of relation state as the objects that are defined at that particular time.,A1Kcf8Z1u3
+5,2021-10-15 20:02:00,Sorry about the mistake the correct question items were posted now.,A1Kcf8Z1u3
+6,2021-10-25 13:45:00,Does this apply for Q9 as well?,Xo3aGKAsfE
+10,2021-10-01 18:51:00,As long as there is some point of randomness that is involved it will be sufficient.,A1Kcf8Z1u3
+11,2021-10-01 23:22:00,The general rule of thumb is that the Ace will take on the value of whatever will help the holder the most,RxNqRHaaoI
+12,2021-10-15 05:19:00,The move method checks if a move is legal for you. You should use this method to change the behavior of your code based on whether or not it returns true or false.,RwKSObZt8b
+13,2021-10-16 12:01:00,Resubmissions with the same filename on Canvas will automatically add a -1 etc to the files. The student answer is correct in that you will not be penalized for this.,QVsfnLS8nP
+18,2021-03-29 09:35:00,Hanna is correct. SQL first executes the FROM; then WHERE; before finally performing the GROUP BY clause,A1Kcf8Z1u3
+23,2021-04-26 08:11:00,Why is database normalization important?,qjAClhRo8T
+24,2020-09-15 08:23:00,Have you tried Eclipse? It's the best!,RwKSObZt8b
+30,2020-04-01 11:05:00,Do I need to sanitize the user input?,tmt3aPs20s
+5,2021-10-15 23:32:00,Where can we find the spreadsheet?,A3mMrNEFsy
+6,2021-10-25 18:21:00,Not sure which part you are asking but if its whether Beaverton only exists in OR then no.,WUMHFJy3AG
+10,2021-10-03 04:32:00,Should we consider the situation when the deck is running out of cards?,YXCMIivcy6
+23,2021-04-26 12:41:00,Database normalization is important because it's a rite of passage into the database community,Rjuqf7P3nX
+24,2020-09-15 11:04:00,What about Netbeans? It was originally part of the JDK.,AnRRwDoMFm
+30,2020-04-01 14:15:00,You can assume that we will be reasonable users and not try to hack your system.,JulFHBBgP9
+5,2021-10-15 23:59:00,The spreadsheet is under the Assignment2 folder.,tmt3aPs20s
+10,2021-10-03 08:47:00,Yes your application should gracefully handle this situation.,cp5asEx6KR
+24,2020-09-15 11:05:00,IntelliJ is also another useful IDE,ECk9NPOnC1
+5,2021-10-16 00:11:00,Thanks Nikhil!,A3mMrNEFsy
+24,2020-09-15 11:55:00,Microsoft Visual Studio has a student developer pack as well.,JulFHBBgP9
